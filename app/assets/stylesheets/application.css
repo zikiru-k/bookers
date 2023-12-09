@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: verdana, arial, helvetica, sans-serif;
+  font-size: 13px;
+  margin: 30px;
+}
+
+h1, h2 {
+  margin: 15px 0;
+}
+
+p {
+  margin: 30px;
+}
+
+th {
+  padding: 5px 5px 10px;
+}
+
+td {
+  padding: 0 5px 10px;
+}
+
+.create_box {
+  margin: 15px 0 15px;
+}
+
+.create_box_title, .create_box_body, .submit {
+  display: block;
+}
+
+.p_link_to {
+  margin: 0;
+}
